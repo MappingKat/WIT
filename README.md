@@ -1,7 +1,7 @@
-Freelancer Jekyll theme
-=========================
+Growth Hacking Project
+======================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+I used a [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
 ## How to use
  - Place a image in `/img/portoflio/`
@@ -23,10 +23,7 @@ description: The description of the project
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+View this jekyll theme in action [here](https://mappingkat.github.io/WIT)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+![screenshot](https://raw.githubusercontent.com/mappingkat/MIT/master/screenshot.png)

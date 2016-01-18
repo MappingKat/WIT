@@ -4,10 +4,10 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
+                        <h3>{{ site.footer.press }}</h3>
                         <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
+                            {% for contact in site.press %}
+                                {{ contact.line }} <br>
 		                    {% endfor %}
                         </p>
                     </div>
