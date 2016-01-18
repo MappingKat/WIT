@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 alt: image-alt
-url: iYTEhCzBLTo
+link: iYTEhCzBLTo
 project-date: March 2014
 client: Panel Discussion
 category: Entrepreneur Talks

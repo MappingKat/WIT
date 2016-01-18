@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 alt: Introduction
-url: gjIypKY-ugI
+link: gjIypKY-ugI
 project-date: March 2014
 client: Rikard Steiber
 category: Rikard Steiber

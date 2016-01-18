@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 alt: image-alt
-url: ML5KePX6i7s
+link: ML5KePX6i7s
 project-date: March 2014
 client:  Innovation Panel
 category: Innovation Panel

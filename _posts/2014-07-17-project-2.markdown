@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 alt: image-alt
-url: 7oIYjVtrRNs
+link: 7oIYjVtrRNs
 project-date: March 2014
 client: Michelle Guthrie
 category: Michelle Guthrie
