@@ -26,4 +26,4 @@ description: The description of the project
 View this jekyll theme in action [here](https://mappingkat.github.io/WIT)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/mappingkat/MIT/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/mappingkat/WIT/master/screenshot.png)
