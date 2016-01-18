@@ -1,11 +1,11 @@
 
     <!-- Portfolio Grid Section -->
-    <section id="portfolio">
+    <section class="success" id="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Resources</h2>
-                    <hr class="star-primary">
+                    <hr class="star-light">
                 </div>
             </div>
             <div class="row">
@@ -17,7 +17,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <iframe width="360" height="360" src="https://www.youtube.com/embed/{{ post.url}}" class="img-responsive" frameborder="0"  alt="{{ post.alt }}" allowfullscreen></iframe>
                         </a>
                     </div>
                 {% endfor %}
