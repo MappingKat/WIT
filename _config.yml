@@ -1,7 +1,7 @@
 # Site settings
 title: Join the Community
 email: katrina@engelsted.co
-url: /
+url: http://techiewomen.org/
 description: "Let's get more women involved in the technology and STEM jobs."
 skills: "Let's make change happen!                                Become One of the Hundreds of Women Supporting, Mentoring and Celebrating Diversity in STEM fields."
 meta_author: Women in Technology
@@ -31,10 +31,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: WIT
   press: Press Inquiries
   social: Around the Web
-  credits: Credits
+  credits: Join our <a href='www.linkedin.com/groups/6627335'>WIT Global LinkedIn</a> and <a href='https://www.facebook.com/groups/WITGlobal/'>Facebook groups</a> to stay up to date and be inspired by community members.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
