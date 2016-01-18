@@ -1,11 +1,11 @@
 # Site settings
-title: Join the Community
-email: katrina@engelsted.co
+title: March 8th @ <a href='http://www.stoccc.se/en'>Stockholm, Sweden
+email: johanna.westin@mtgx.se
 url: http://techiewomen.org/
 description: "Let's get more women involved in the technology and STEM jobs."
-skills: "Let's make change happen!                                Become One of the Hundreds of Women Supporting, Mentoring and Celebrating Diversity in STEM fields."
-meta_author: Women in Technology
-name: Women in Technology
+skills: "Join the Community! Become One of the Thousands of Women Supporting, Mentoring and Promoting Diversity in Technology."
+meta_author: Women in Technology 2016
+name: Women in Technology 2016
 # Google webmaster tools
 google_verify: UA-72558635-1
 
@@ -34,7 +34,7 @@ footer:
   copyright: WIT
   press: Press Inquiries
   social: Around the Web
-  credits: Join our <a href='www.linkedin.com/groups/6627335'>WIT Global LinkedIn</a> and <a href='https://www.facebook.com/groups/WITGlobal/'>Facebook groups</a> to stay up to date and be inspired by community members.
+  credits: Join our <a href='http://linkedin.com/groups/6627335'>WIT Global LinkedIn</a> and <a href='https://facebook.com/groups/WITGlobal/'>Facebook group</a> to stay up to date and begin to meet the inspiring community members.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ press:
   - line: +46 73 699 18 17
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
