@@ -23,7 +23,7 @@ description: The description of the project
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://mappingkat.github.io/WIT)
+View this jekyll theme in action [here](https://techiewomen.org/WIT)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/mappingkat/WIT/master/screenshot.png)
