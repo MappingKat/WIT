@@ -3,9 +3,6 @@
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
    empty($_POST['language']) 		||
-   empty($_POST['friend_name'])	||
-   empty($_POST['friend_email'])	||
-   empty($_POST['friend_language'])	||
    !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
    {
 	echo "No arguments Provided!";
