@@ -14,12 +14,7 @@
                 <p>Join us March 8 at 12 PM in Stockholm, Sweden for opportunities to meet, mingle and listen to some of the most inspiring people in the tech industry:</p>
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
-                      <iframe title="YouTube video player" src="http://www.youtube.com/embed/{{ post.link }}?wmode=transparent&amp;enablejsapi=1" frameborder="0" allowfullscreen="" id="{{ post-modal-id }}" alt="{{ post.alt }}"></iframe>
-                      <div class="caption">
-                        <div class="caption-content">
-                          <i class="fa fa-search-plus fa-3x"></i>
-                        </div>
-                      </div>
+                      <iframe src="http://www.youtube.com/embed/{{ post.link }}?wmode=transparent&amp;enablejsapi=1" frameborder="0" allowfullscreen="" id="{{ post-modal-id }}" alt="{{ post.alt }}"></iframe>
                     </div>
                 {% endfor %}
                 <br>
