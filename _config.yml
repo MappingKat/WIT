@@ -2,10 +2,10 @@
 title: Tues, March 8th @ Stockholm City Conference Centre
 email: johanna.westin@mtgx.se
 url: http://techiewomen.org/
-description: "Let's get more women involved in the technology and STEM jobs."
+description: "Let's get more women involved in the technology and STEM jobs. A FREE conference."
 skills: "Join 6,000+ Intendees! Become One of the Thousands of Women Supporting, Mentoring and Promoting Diversity in Technology."
-meta_author: Women in Technology 2016
-name: Women in Technology 2016
+meta_author: Women in Tech 2016
+name: Women in Tech 2016
 # Google webmaster tools
 google_verify: UA-72558635-1
 
@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 press:
-  - line: johanna.westin@mtgx.se
-  - line: +46 73 699 18 17
+  - line: carl.johannisson@mtgx.se (General)
+  - line: jessica.sjoberg@viaplay.com (PR & Communication)
 
 # Credits content
 credits: ''
