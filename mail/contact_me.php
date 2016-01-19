@@ -16,14 +16,6 @@ if ($email_address === FALSE) {
     exit(1);
 }
 $language = $_POST['language'];
-$friend_name = $_POST['friend_name'];
-$friend_email_address = filter_var($_POST['friend_email'], FILTER_VALIDATE_EMAIL);
-if ($friend_email_address === FALSE) {
-    echo 'Invalid email';
-    exit(1);
-}
-$friend_language = $_POST['friend_language'];
-
 
 // Create the email and send the message
 $to = 'katrina@engelsted.co'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
